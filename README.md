@@ -5,3 +5,6 @@ a collection of sites to use as inspiration when designing a site
 
 ### Cesarina - restaurant website
 https://cesarinarestaurant.com/welcome-to-cesarina/
+
+### The Outline - news and articles
+https://theoutline.com/
