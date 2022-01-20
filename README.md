@@ -8,3 +8,6 @@ https://cesarinarestaurant.com/welcome-to-cesarina/
 
 ### The Outline - news and articles
 https://theoutline.com/
+
+### Paper Sizes - the various standard paper sizes
+https://papersizes.io/
