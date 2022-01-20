@@ -11,3 +11,6 @@ https://theoutline.com/
 
 ### Paper Sizes - the various standard paper sizes
 https://papersizes.io/
+
+### Cassie Personal Site
+https://www.cassie.codes/
